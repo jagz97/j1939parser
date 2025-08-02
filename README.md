@@ -1,4 +1,6 @@
 # j1939parser
+
+[![Coverage Status](https://coveralls.io/repos/github/jagz97/j1939parser/badge.svg?branch=main)](https://coveralls.io/github/jagz97/j1939parser?branch=main)
 [![PyPI version](https://img.shields.io/pypi/v/j1939parser.svg)](https://pypi.org/project/j1939parser/)
 [![Python versions](https://img.shields.io/pypi/pyversions/j1939parser.svg)](https://pypi.org/project/j1939parser/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -134,4 +136,3 @@ This ensures your package is available for the tests to import.
 
 ---
 
-Let me know if you want me to update your full README with this included!
