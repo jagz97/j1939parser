@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name="j1939parser",
-    version="0.1.3",
+    version="0.1.4",
     description="Extracts GPS positions from J1939 PGN 65267 CAN logs",
     long_description=long_description,                      
     long_description_content_type="text/markdown",         
