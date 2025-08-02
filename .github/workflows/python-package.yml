@@ -29,13 +29,10 @@ jobs:
 
       - name: Run tests with coverage
         run: |
-          python -m pytest --cov=j1939parser --cov-report=term --cov-report=xml
+          python -m pytest --cov=j1939parser --cov-branch --cov-report=xml
 
       - name: Upload coverage to Codecov
-        uses: codecov/codecov-action@v4
+        uses: codecov/codecov-action@v5
         with:
           token: ${{ secrets.CODECOV_TOKEN }}
-          files: coverage.xml
-          flags: unittests
-          name: codecov-coverage
           fail_ci_if_error: true
