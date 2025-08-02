@@ -134,5 +134,4 @@ pip install -e '.[can]'
 This ensures your package is available for the tests to import.
 ```
 
----
 
