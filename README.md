@@ -1,6 +1,6 @@
 # j1939parser
 
-[![codecov](https://codecov.io/github/jagz97/131_project/graph/badge.svg?token=859H8SHZ35)](https://codecov.io/github/jagz97/131_project)
+[![codecov](https://codecov.io/github/jagz97/j1939parser/graph/badge.svg?token=VBAZ43GD4V)](https://codecov.io/github/jagz97/j1939parser)
 [![PyPI version](https://img.shields.io/pypi/v/j1939parser.svg)](https://pypi.org/project/j1939parser/)
 [![Python versions](https://img.shields.io/pypi/pyversions/j1939parser.svg)](https://pypi.org/project/j1939parser/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
