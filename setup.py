@@ -2,10 +2,10 @@ from setuptools import setup, find_packages
 
 setup(
     name="j1939parser",
-    version="0.1.0",
+    version="0.1.1",
     description="Extracts GPS positions from J1939 PGN 65267 CAN logs",
     author="Jagjit Singh",
-    author_email="your@email.com",
+    author_email="jagjit.saini2019@gmail.com",
     license="MIT",
     packages=find_packages(),
     install_requires=[
